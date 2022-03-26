@@ -2,9 +2,9 @@
 
 ------------------------------------
 
-경희대학교 소프트웨어융합학과 재학중
+* 경희대학교 소프트웨어융합학과 재학중
 
-대한민국 육군 제1포병여단 자주포 조종수 병장 만기전역
+* 대한민국 육군 제1포병여단 자주포 조종수 병장 만기전역
 
 Contact me anytime
 
@@ -51,6 +51,7 @@ Contact me anytime
   <img src="https://img.shields.io/badge/TENSORFLOW-00BFFF?style=flat-square&logo=TENSORFLOW&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/KERAS-778899?style=flat-square&logo=KERAS&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
 
+  <br>
   <br>
   
   ![Koo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rngustj9139&show_icons=true&theme=radical)
