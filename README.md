@@ -1,4 +1,4 @@
-### 서버 개발과 인공지능에 관심이 많은 공학도 구현서 입니다. 👋
+### 서버 개발과 인공지능, 축구에 관심이 많은 공학도 구현서 입니다. 👋
 
 경희대학교 소프트웨어융합학과 재학중
 
@@ -41,6 +41,12 @@ Contact me anytime
 <br>
   
 <img src="https://img.shields.io/badge/THYMELEAF-4B0082?style=flat-square&logo=THYMELEAF&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
+  
+<br>
+  
+<img src="https://img.shields.io/badge/SCIKITLEARN-7FFF00?style=flat-square&logo=SCIKITLEARN&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
+<img src="https://img.shields.io/badge/TENSORFLOW-00BFFF?style=flat-square&logo=TENSORFLOW&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
+<img src="https://img.shields.io/badge/KERAS-778899?style=flat-square&logo=KERAS&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=10&section=footer&fontSize=90)
 
