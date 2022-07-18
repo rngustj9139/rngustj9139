@@ -57,6 +57,8 @@ Contact me anytime
   <img src="https://img.shields.io/badge/FIGMA-FF1493?style=flat-square&logo=FIGMA&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/JIRA-FFC0CB?style=flat-square&logo=JIRA&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/DISCORD-EE82EE?style=flat-square&logo=DISCORD&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
+  <img src="https://img.shields.io/badge/POSTMAN-DEB887?style=flat-square&logo=POSTMAN&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
+
 
   <br>
   <br>
