@@ -16,7 +16,7 @@ Contact me anytime
   
   ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=new%20Passion();&fontSize=90)
   
-  <h5>🔥구현서의 깃허브에 오신 것을 환영합니다.🔥</h5>
+  <h5>🔥천재는 노력하는 자를 이길 수 없고 노력하는 자는 즐기는 자를 이길 수 없다.🔥</h5>
   
   <h5>🔧TECH STACK🔧</h5>
 
