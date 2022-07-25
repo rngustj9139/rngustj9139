@@ -16,7 +16,7 @@ Contact me anytime
   
   ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=new%20Passion();&fontSize=90)
   
-  <h5>🔥인생에서의 가장 큰 영광은 넘어지지 않는것이 아니라 매번 일어선다는 데 있다.🔥</h5>
+  <h5>🔥The greatest glory in living lies not in never falling, <br> but in rising every time we fall.🔥</h5>
   
   <h5>🔧TECH STACK🔧</h5>
 
