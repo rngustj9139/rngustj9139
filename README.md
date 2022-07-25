@@ -16,7 +16,7 @@ Contact me anytime
   
   ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=new%20Passion();&fontSize=90)
   
-  <h5>🔥The greatest glory in living lies not in never falling, <br> but in rising every time we fall.🔥</h5>
+  <h5>🔥The greatest glory in living lies not in never falling,🔥 <br> but in rising every time we fall.</h5>
   
   <h5>🔧TECH STACK🔧</h5>
 
