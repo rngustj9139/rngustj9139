@@ -22,7 +22,7 @@ Contact me anytime
 
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/CSS-7B68EE?style=flat-square&logo=CSS3&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
-  <img src="https://img.shields.io/badge/JAVASCRIPT-7FFF00?style=flat-square&logo=JAVASCRIPT&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
+  <img src="https://img.shields.io/badge/JAVASCRIPT-778899?style=flat-square&logo=JAVASCRIPT&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/C-1E90FF?style=flat-square&logo=C&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> 
   <img src="https://img.shields.io/badge/C++-00FFFF?style=flat-square&logo=CPLUSPLUS&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/PYTHON-98FB98?style=flat-square&logo=PYTHON&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
@@ -41,6 +41,7 @@ Contact me anytime
   <img src="https://img.shields.io/badge/SPRING MVC-FFC0CB?style=flat-square&logo=SPRING&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/SPRING REST API-9370DB?style=flat-square&logo=SPRING&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/SPRING SECURITY-98FB98?style=flat-square&logo=SPRING SECURITY&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
+  <img src="https://img.shields.io/badge/SPRING BATCH-4B0082?style=flat-square&logo=SPRING BATCH&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
 
   <br>
 
