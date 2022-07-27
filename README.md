@@ -73,6 +73,11 @@ Contact me anytime
   <img src="https://img.shields.io/badge/TENSORFLOW-00BFFF?style=flat-square&logo=TENSORFLOW&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/KERAS-778899?style=flat-square&logo=KERAS&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
 
+  <br>
+  
+  <img src="https://img.shields.io/badge/AWS-E34F26?style=flat-square&logo=AWS&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
+  <img src="https://img.shields.io/badge/SPRING REST API-9370DB?style=flat-square&logo=SPRING&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
+    <img src="https://img.shields.io/badge/SPRING SECURITY-98FB98?style=flat-square&logo=SPRING SECURITY&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
 
   <br>
   <br>
