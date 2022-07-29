@@ -6,6 +6,8 @@
 
 * 대한민국 육군 제1포병여단 자주포 조종수 병장 만기전역
 
+* 다우기술 SW 장학생
+
 Contact me anytime
 
 (EMAIL)[mnb9139@khu.ac.kr]
