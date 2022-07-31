@@ -48,7 +48,7 @@ Contact me anytime
   <img src="https://img.shields.io/badge/SPRING BATCH-4B0082?style=flat-square&logo=SPRING BATCH&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
 
   <br>
-
+ <img src="https://img.shields.io/badge/JPQL-00BFFF?style=flat-square&logo=JPQL&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/JPA-EE82EE?style=flat-square&logo=JPA&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/SPRING DATA JPA-DEB887?style=flat-square&logo=SPRINGDATAJPA&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/H2-FF1493?style=flat-square&logo=H2&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
