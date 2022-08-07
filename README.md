@@ -20,6 +20,8 @@ Contact me anytime
   
   ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=new%20Passion();&fontSize=90)
   
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frngustj9139&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
+  
   <h5>🔥The greatest glory in living lies not in never falling,🔥 <br> but in rising every time we fall.</h5>
   
   <h5>🔧TECH STACK🔧</h5>
@@ -101,7 +103,7 @@ Contact me anytime
 
 
   
-  ![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=10&section=footer&fontSize=90)
+  ![Footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer)
 </div>
 
 
