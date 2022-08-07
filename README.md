@@ -101,12 +101,6 @@ Contact me anytime
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rngustj9139&hide=python&layout=compact&theme=dracula)](https://github.com/rngustj9139)
 
 
-
-
-
-
-  
-  ![Footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer)
 </div>
 
 
