@@ -96,11 +96,12 @@ Contact me anytime
   <br>
   
   ![Koo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rngustj9139&show_icons=true&theme=radical)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rngustj9139&hide=python&layout=compact&theme=dracula)](https://github.com/rngustj9139)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rngustj9139&layout=compact&theme=dracula)](https://github.com/rngustj9139)
 
+
+  
   ![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=10&section=footer&fontSize=90)
-
 </div>
 
 
