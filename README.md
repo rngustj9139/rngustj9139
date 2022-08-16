@@ -60,6 +60,7 @@ Contact me anytime
   <img src="https://img.shields.io/badge/QUERYDSL-EE82EE?style=flat-square&logo=QUERYDSL&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/H2-FF1493?style=flat-square&logo=H2&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/MYSQL-66CDAA?style=flat-square&logo=MYSQL&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
+   <img src="https://img.shields.io/badge/POSTMAN-DEB887?style=flat-square&logo=POSTMAN&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/ERDCLOUD-778899?style=flat-square&logo=ERDCLOUD&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   
   <br>
@@ -81,7 +82,6 @@ Contact me anytime
   <img src="https://img.shields.io/badge/JIRA-FFC0CB?style=flat-square&logo=JIRA&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/GOOGLE DOCS-FFA07A?style=flat-square&logo=GOOGLE DOCS&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/DISCORD-EE82EE?style=flat-square&logo=DISCORD&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
-  <img src="https://img.shields.io/badge/POSTMAN-DEB887?style=flat-square&logo=POSTMAN&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/GIT-E34F26?style=flat-square&logo=GIT&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/GITHUB-66CDAA?style=flat-square&logo=GITHUB&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   
