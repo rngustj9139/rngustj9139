@@ -41,7 +41,6 @@ Contact me anytime
   <br>
   
   <img src="https://img.shields.io/badge/DJANGO-262168?style=flat-square&logo=DJANGO&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
-  <img src="https://img.shields.io/badge/FLASK-DEB887?style=flat-square&logo=FLASK&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <br>
   
   <img src="https://img.shields.io/badge/SPRING-FFA07A?style=flat-square&logo=SPRING&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
