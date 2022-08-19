@@ -12,6 +12,13 @@
 
 * 다우기술 SW 장학생
 
+### [What i am learning now]
+* MSA using spring cloud
+
+* ElasticSearch, Logstash, Kibana (A.K.A ELK stack)
+
+* Computer vision using convolutional neural network 
+
 <br />
 
 Contact me anytime
