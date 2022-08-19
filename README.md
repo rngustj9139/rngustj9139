@@ -39,8 +39,10 @@ Contact me anytime
 
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/CSS-1E90FF?style=flat-square&logo=CSS3&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
-  <img src="https://img.shields.io/badge/JAVASCRIPT-CAC532?style=flat-square&logo=JAVASCRIPT&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> 
+  <img src="https://img.shields.io/badge/JAVASCRIPT-CAC532?style=flat-square&logo=JAVASCRIPT&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
+   <!-- 주석처리!!!!!!!!!!!!!!!!!!
   <img src="https://img.shields.io/badge/TYPESCRIPT-1E90FF?style=flat-square&logo=TYPESCRIPT&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> 
+   -->
   <img src="https://img.shields.io/badge/C-F2636F?style=flat-square&logo=C&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> 
   <img src="https://img.shields.io/badge/C++-00FFFF?style=flat-square&logo=CPLUSPLUS&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/PYTHON-98FB98?style=flat-square&logo=PYTHON&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
@@ -48,9 +50,12 @@ Contact me anytime
 
 <br />
  <img src="https://img.shields.io/badge/REACT-4B0082?style=flat-square&logo=REACT&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
+  <!-- 주석처리!!!!!!!!!!!!!!!!!!
  <img src="https://img.shields.io/badge/REDUX-CC61F9?style=flat-square&logo=REDUX&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
-  <br>
-  
+  -->
+
+  <br>   
+ 
   <img src="https://img.shields.io/badge/DJANGO-262168?style=flat-square&logo=DJANGO&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <br>
   
