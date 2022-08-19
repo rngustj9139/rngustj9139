@@ -12,6 +12,14 @@
 
 * 다우기술 SW 장학생
 
+### [자격증]
+* SQLD
+
+### [수상]
+* 현대모비스 알고리즘 경진대회 장려상
+
+<br />
+
 Contact me anytime
 
 (EMAIL)[mnb9139@khu.ac.kr]
