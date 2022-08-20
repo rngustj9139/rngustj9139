@@ -80,6 +80,12 @@ Contact me anytime
   <img src="https://img.shields.io/badge/ERDCLOUD-778899?style=flat-square&logo=ERDCLOUD&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   
   <br>
+  
+   <img src="https://img.shields.io/badge/ELASTICSEARCH-66CDAA?style=flat-square&logo=ELASTICSEARCH&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
+   <img src="https://img.shields.io/badge/LOGSTASH-D6D251?style=flat-square&logo=LOGSTASH&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
+  <img src="https://img.shields.io/badge/KIBANA-3E3E3C?style=flat-square&logo=KIBANA&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
+  
+  <br>
 
   <img src="https://img.shields.io/badge/THYMELEAF-4B0082?style=flat-square&logo=THYMELEAF&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/BOOTSTRAP-7FFF00?style=flat-square&logo=BOOTSTRAP&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
@@ -91,7 +97,7 @@ Contact me anytime
   <img src="https://img.shields.io/badge/DOCKER-9370DB?style=flat-square&logo=DOCKER&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/KUBERNETES-98FB98?style=flat-square&logo=KUBERNETES&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/TRAVIS CI-F09595?style=flat-square&logo=TRAVISCI&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
-  <img src="https://img.shields.io/badge/KAFKA-504F4F?style=flat-square&logo=APACHEKAFKA&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
+  <img src="https://img.shields.io/badge/KAFKA-050505?style=flat-square&logo=APACHEKAFKA&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
     
   <br>
   
