@@ -25,11 +25,12 @@
 
 Contact me anytime
 
+(VELOG)[https://velog.io/@mnb9139] 
+
 (EMAIL)[mnb9139@khu.ac.kr]
 
 (SNS)[https://www.instagram.com/nine000west/]
 
-(VELOG)[https://velog.io/@mnb9139] 
 
 <div align=center>
   
