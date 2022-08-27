@@ -29,6 +29,8 @@ Contact me anytime
 
 (SNS)[https://www.instagram.com/nine000west/]
 
+(VELOG)[https://velog.io/@mnb9139] 
+
 <div align=center>
   
   ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=new%20Passion();&fontSize=90)
