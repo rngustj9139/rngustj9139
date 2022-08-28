@@ -29,7 +29,6 @@ Contact me anytime
 
 (EMAIL)[mnb9139@khu.ac.kr]
 
-(SNS)[https://www.instagram.com/nine000west/]
 
 
 <div align=center>
