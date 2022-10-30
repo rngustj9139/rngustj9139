@@ -103,6 +103,7 @@ Contact me anytime
   <img src="https://img.shields.io/badge/KUBERNETES-98FB98?style=flat-square&logo=KUBERNETES&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/TRAVIS CI-F09595?style=flat-square&logo=TRAVISCI&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/KAFKA-050505?style=flat-square&logo=APACHEKAFKA&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
+   <img src="https://img.shields.io/badge/FILEZILLA-FE2E2E?style=flat-square&logo=FILEZILLA&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
     
   <br>
   
@@ -120,7 +121,6 @@ Contact me anytime
   <img src="https://img.shields.io/badge/SCIKITLEARN-7FFF00?style=flat-square&logo=SCIKITLEARN&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/TENSORFLOW-00BFFF?style=flat-square&logo=TENSORFLOW&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/KERAS-778899?style=flat-square&logo=KERAS&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
-
   
 
   <br>
