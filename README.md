@@ -118,6 +118,9 @@ Contact me anytime
   <img src="https://img.shields.io/badge/GITHUB-66CDAA?style=flat-square&logo=GITHUB&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   
   <br />
+  <img src="https://img.shields.io/badge/INTELLIJ-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
+  <img src="https://img.shields.io/badge/VSCODE-0080FF?style=flat-square&logo=Visual Studio Code&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
+  <br />
     
   <img src="https://img.shields.io/badge/SCIKITLEARN-7FFF00?style=flat-square&logo=SCIKITLEARN&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/TENSORFLOW-00BFFF?style=flat-square&logo=TENSORFLOW&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
