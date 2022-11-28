@@ -1,6 +1,8 @@
 ### 서버 개발과 인공지능, 축구에 관심이 많은 공학도 구현서 입니다. 👋
 
 ------------------------------------
+넓은 우주에 내 흔적을 남기자!
+
 ### [Personal History]
 * 경희대학교 소프트웨어융합학과 재학중
 
@@ -120,6 +122,8 @@ Contact me anytime
   <br />
   <img src="https://img.shields.io/badge/INTELLIJ-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/VSCODE-0080FF?style=flat-square&logo=Visual Studio Code&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
+<img src="https://img.shields.io/badge/JUPYTER-F37626?style=flat-square&logo=Jupyter&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
+  
   <br />
     
   <img src="https://img.shields.io/badge/SCIKITLEARN-7FFF00?style=flat-square&logo=SCIKITLEARN&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
