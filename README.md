@@ -146,7 +146,8 @@ Contact me anytime
   ![Koo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rngustj9139&show_icons=true&theme=radical)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rngustj9139&layout=compact&theme=dracula)](https://github.com/rngustj9139)
-
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=mnb9139)](https://solved.ac/mnb9139)
+    
  ![Footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer)
 </div>
 
