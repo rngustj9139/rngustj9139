@@ -24,6 +24,8 @@
 
 * 다우기술 SW 장학생
 
+* 2022 에코스타트업 정부지원사업 수주
+
 ### [What i am learning now]
 * MSA using spring cloud
 
