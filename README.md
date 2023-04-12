@@ -24,7 +24,7 @@
 
 * 다우기술 SW 장학생
 
-* 2023 에코스타트업 정부지원사업 수주
+* 2023 에코스타트업 정부지원사업 계약체결
 
 ### [What i am learning now]
 * MSA using spring cloud
