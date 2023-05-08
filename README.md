@@ -35,7 +35,7 @@
 
 <br />
 
-Contact me anytime
+### [Contact Point]
 
 (기술블로그)[https://velog.io/@mnb9139] 
 
