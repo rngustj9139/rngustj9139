@@ -33,8 +33,6 @@
 
 * Computer vision using convolutional neural network 
 
-<br />
-
 ### [Contact Point]
 
 (기술블로그)[https://velog.io/@mnb9139] 
