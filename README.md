@@ -35,7 +35,7 @@
 
 ### [Contact Point]
 
-(기술블로그)[https://velog.io/@mnb9139] 
+(TECH BLOG)[https://velog.io/@mnb9139] 
 
 (EMAIL)[mnb9139@khu.ac.kr]
 
