@@ -134,7 +134,13 @@
 <img src="https://img.shields.io/badge/JUPYTER-F37626?style=flat-square&logo=Jupyter&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   
   <br />
-    
+<img src="https://img.shields.io/badge/NUMPY-1E90FF?style=flat-square&logo=NUMPY&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
+<img src="https://img.shields.io/badge/PANDAS-220188?style=flat-square&logo=PANDAS&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
+<img src="https://img.shields.io/badge/MATPLOTLIB-4cb9d6?style=flat-square&logo=MATPLOTLIB&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
+<img src="https://img.shields.io/badge/OPENCV-98FB98?style=flat-square&logo=OPENCV&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
+
+  <br />
+  
   <img src="https://img.shields.io/badge/SCIKITLEARN-7FFF00?style=flat-square&logo=SCIKITLEARN&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/TENSORFLOW-00BFFF?style=flat-square&logo=TENSORFLOW&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/KERAS-778899?style=flat-square&logo=KERAS&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
