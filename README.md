@@ -33,7 +33,7 @@
 
 * Computer vision using convolutional neural network
 
-### [certificate]
+### [Certificate]
 * SQLD
   
 * OCAJP
