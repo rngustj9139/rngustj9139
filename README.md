@@ -31,7 +31,14 @@
 
 * ElasticSearch, Logstash, Kibana (A.K.A ELK stack)
 
-* Computer vision using convolutional neural network 
+* Computer vision using convolutional neural network
+
+### [certificate]
+* SQLD
+  
+* OCAJP
+  
+* Network Administrator Level 2
 
 ### [Contact Point]
 
