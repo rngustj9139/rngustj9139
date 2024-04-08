@@ -71,15 +71,15 @@
   <img src="https://img.shields.io/badge/JAVA-800000?style=flat-square&logo=JAVA&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
 
 <br />
+ <!-- 주석처리!!!!!!!!!!!!!!!!!!
  <img src="https://img.shields.io/badge/REACT-4B0082?style=flat-square&logo=REACT&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
-  <!-- 주석처리!!!!!!!!!!!!!!!!!!
  <img src="https://img.shields.io/badge/REDUX-CC61F9?style=flat-square&logo=REDUX&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
-  -->
 
   <br>   
  
   <img src="https://img.shields.io/badge/DJANGO-262168?style=flat-square&logo=DJANGO&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <br>
+  -->
   
   <img src="https://img.shields.io/badge/SPRING-FFA07A?style=flat-square&logo=SPRING&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/SPRINGBOOT-808080?style=flat-square&logo=SPRINGBOOT&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
@@ -111,7 +111,9 @@
   <br>
 
   <img src="https://img.shields.io/badge/THYMELEAF-4B0082?style=flat-square&logo=THYMELEAF&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
+  <!-- 주석처리!!!!!!!!!!!!!!!!!!
   <img src="https://img.shields.io/badge/BOOTSTRAP-7FFF00?style=flat-square&logo=BOOTSTRAP&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
+  -->
   
   <br>
   
