@@ -12,7 +12,7 @@
 
 * 사회적 기업가 육성사업 창업 팀 참여(모두의 보이스 DB 구축 및 API 개발)
 
-<!-- * 제 1회 전국 장애, 비장애 창업경진대회 참여(청각장애인 대상 STT, WebSocket, WebRTC, STOMP 기반 온라인 교육 플랫폼 개발) -->
+* 제 1회 전국 장애, 비장애 창업경진대회 참여(청각장애인 대상 STT, WebSocket, WebRTC, STOMP 기반 온라인 교육 플랫폼 개발)
 
 * 경희대학교 KVS(KHU Valley Start-up) 육성사업 5기 참여
 
