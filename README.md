@@ -34,9 +34,9 @@
 * Computer vision using convolutional neural network
 
 ### [Certificate]
-* SQLD
+* SQLD(한국데이터산업진흥원)
   
-* OCAJP
+* OCAJP(Oracle)
   
 * Network Administrator Level 2
 
