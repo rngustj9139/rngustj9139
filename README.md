@@ -59,9 +59,11 @@
   
   <h5>🔧TECH STACK🔧</h5>
 
+  <!--
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/CSS-1E90FF?style=flat-square&logo=CSS3&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/JAVASCRIPT-CAC532?style=flat-square&logo=JAVASCRIPT&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
+  -->
    <!-- 주석처리!!!!!!!!!!!!!!!!!!
   <img src="https://img.shields.io/badge/TYPESCRIPT-1E90FF?style=flat-square&logo=TYPESCRIPT&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> 
    -->
@@ -104,8 +106,8 @@
   
   <br>
   
-   <img src="https://img.shields.io/badge/GRAFANA-66CDAA?style=flat-square&logo=GRAFANA&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
-   <img src="https://img.shields.io/badge/PROMETHEUS-D6D251?style=flat-square&logo=PROMETHEUS&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
+   <img src="https://img.shields.io/badge/GRAFANA-E34F26?style=flat-square&logo=GRAFANA&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
+   <img src="https://img.shields.io/badge/PROMETHEUS-FE2E2E?style=flat-square&logo=PROMETHEUS&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/LOKI-3E3E3C?style=flat-square&logo=LOKI&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/JAEGER-3E3E3C?style=flat-square&logo=JAEGER&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/OPENTELEMETRY-3E3E3C?style=flat-square&logo=OPENTELEMETRY&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
