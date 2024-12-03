@@ -133,7 +133,7 @@
     
   <br>
   
-   <img src="https://img.shields.io/badge/FIGMA-FF1493?style=flat-square&logo=FIGMA&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
+   <img src="https://img.shields.io/badge/FIGMA-9932cc?style=flat-square&logo=FIGMA&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/SLACK-1E90FF?style=flat-square&logo=SLACK&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> 
    <img src="https://img.shields.io/badge/NOTION-050505?style=flat-square&logo=NOTION&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/GOOGLE DOCS-FFA07A?style=flat-square&logo=GOOGLE DOCS&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
