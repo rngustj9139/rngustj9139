@@ -29,7 +29,7 @@
 ### [What i am learning now]
 * MSA using spring cloud
 
-* ElasticSearch, Logstash, Kibana (A.K.A ELK stack)
+* Observability(O11y) System using Grafana, Prometheus, Loki, Jaeger, OpenTelemetry
 
 * Computer vision using convolutional neural network
 
