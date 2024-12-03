@@ -27,7 +27,7 @@
 * 2023 에코스타트업 정부지원사업 협약체결
 
 ### [What i am learning now]
-* MSA using spring cloud
+* MSA using Spring Cloud
 
 * Observability(O11y) System using Grafana, Prometheus, Loki, Jaeger, OpenTelemetry
 
