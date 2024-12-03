@@ -38,7 +38,7 @@
   
 * OCAJP(Oracle)
   
-* Network Administrator Level 2
+* Topcit Level 3 (600/1000)
 
 ### [Contact Point]
 
