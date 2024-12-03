@@ -124,7 +124,7 @@
   <img src="https://img.shields.io/badge/NGINX-01DF3A?style=flat-square&logo=NGINX&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/DOCKER-9370DB?style=flat-square&logo=DOCKER&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/KUBERNETES-98FB98?style=flat-square&logo=KUBERNETES&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
-  <img src="https://img.shields.io/badge/JENKINS-050505?style=flat-square&logo=JENKINS&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
+  <img src="https://img.shields.io/badge/JENKINS-221b68?style=flat-square&logo=JENKINS&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/KAFKA-050505?style=flat-square&logo=APACHEKAFKA&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
  
@@ -141,7 +141,7 @@
   <img src="https://img.shields.io/badge/GITLAB-66CDAA?style=flat-square&logo=GITLAB&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   
   <br />
-  <img src="https://img.shields.io/badge/INTELLIJ-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
+  <img src="https://img.shields.io/badge/INTELLIJ-6d27e6?style=flat-square&logo=IntelliJ IDEA&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/VSCODE-0080FF?style=flat-square&logo=Visual Studio Code&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
 <img src="https://img.shields.io/badge/JUPYTER-F37626?style=flat-square&logo=Jupyter&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   
