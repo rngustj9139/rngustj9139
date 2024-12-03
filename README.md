@@ -104,9 +104,9 @@
   
   <br>
   
-   <img src="https://img.shields.io/badge/ELASTICSEARCH-66CDAA?style=flat-square&logo=ELASTICSEARCH&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
-   <img src="https://img.shields.io/badge/LOGSTASH-D6D251?style=flat-square&logo=LOGSTASH&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
-  <img src="https://img.shields.io/badge/KIBANA-3E3E3C?style=flat-square&logo=KIBANA&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
+   <img src="https://img.shields.io/badge/GRAFANA-66CDAA?style=flat-square&logo=GRAFANA&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
+   <img src="https://img.shields.io/badge/PROMETHEUS-D6D251?style=flat-square&logo=PROMETHEUS&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
+  <img src="https://img.shields.io/badge/LOKI-3E3E3C?style=flat-square&logo=LOKI&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   
   <br>
 
@@ -123,21 +123,20 @@
   <img src="https://img.shields.io/badge/DOCKER-9370DB?style=flat-square&logo=DOCKER&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/KUBERNETES-98FB98?style=flat-square&logo=KUBERNETES&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/JENKINS-050505?style=flat-square&logo=JENKINS&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
-  <img src="https://img.shields.io/badge/TRAVIS CI-F09595?style=flat-square&logo=TRAVISCI&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/KAFKA-050505?style=flat-square&logo=APACHEKAFKA&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
-   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
-   <img src="https://img.shields.io/badge/FILEZILLA-FE2E2E?style=flat-square&logo=FILEZILLA&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
+ 
     
   <br>
   
    <img src="https://img.shields.io/badge/FIGMA-FF1493?style=flat-square&logo=FIGMA&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/SLACK-1E90FF?style=flat-square&logo=SLACK&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> 
    <img src="https://img.shields.io/badge/NOTION-050505?style=flat-square&logo=NOTION&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
-  <img src="https://img.shields.io/badge/JIRA-FFC0CB?style=flat-square&logo=JIRA&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/GOOGLE DOCS-FFA07A?style=flat-square&logo=GOOGLE DOCS&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/DISCORD-EE82EE?style=flat-square&logo=DISCORD&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/GIT-E34F26?style=flat-square&logo=GIT&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/GITHUB-66CDAA?style=flat-square&logo=GITHUB&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
+  <img src="https://img.shields.io/badge/GITLAB-66CDAA?style=flat-square&logo=GITLAB&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   
   <br />
   <img src="https://img.shields.io/badge/INTELLIJ-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
