@@ -31,7 +31,7 @@
 
 * Observability(O11y) System using Grafana, Prometheus, Loki, Jaeger, OpenTelemetry
 
-* Computer vision using convolutional neural network
+* SRE & Cloud Native Computing
 
 ### [Certificate]
 * SQLD(한국데이터산업진흥원)
