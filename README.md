@@ -40,6 +40,11 @@
   
 * Topcit Level 3 (600/1000)
 
+### [career]
+* 쉐어위드 (2023.04.16~2023.12.31)
+  
+* HD현대 (2024.09.02~)
+
 ### [Contact Point]
 
 (TECH BLOG)[https://velog.io/@mnb9139] 
