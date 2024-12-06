@@ -34,9 +34,9 @@
 * SRE & Cloud Native Computing
 
 ### [Certificate]
-* SQLD(한국데이터산업진흥원)
+* SQLD (한국데이터산업진흥원)
   
-* OCAJP(Oracle)
+* OCAJP (Oracle)
   
 * Topcit Level 3 (600/1000)
 
