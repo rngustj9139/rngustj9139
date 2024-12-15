@@ -48,7 +48,7 @@
 * HD현대 (2024.09.02~)
 
 ### [Contact Point]
-(Linkedin) [https://www.linkedin.com/in/%ED%98%84%EC%84%9C-%EA%B5%AC-360703172/]
+(Linkedin) [www.linkedin.com/in/hskoo1219]
 
 (Tech Blog)[https://velog.io/@mnb9139] 
 
