@@ -49,6 +49,8 @@
 
 (TECH BLOG)[https://velog.io/@mnb9139] 
 
+(Linkedin) [https://www.linkedin.com/in/%ED%98%84%EC%84%9C-%EA%B5%AC-360703172/]
+
 (EMAIL)[mnb9139@khu.ac.kr]
 
 (SNS)[https://www.instagram.com/eddie___koo/]
