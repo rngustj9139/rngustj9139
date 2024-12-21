@@ -29,7 +29,7 @@
 ### [What i am learning now]
 * MSA using Spring Cloud
 
-* Observability(O11y) System using Grafana, Prometheus, Loki, Jaeger, OpenTelemetry
+* Observability(o11y) System using Grafana, Prometheus, Loki, Jaeger, OpenTelemetry
 
 * SRE & Cloud Native Computing
 
