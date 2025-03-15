@@ -31,7 +31,7 @@
 ### [University Club]
 * 경희대학교 창업 비즈니스 동아리
   
-* 경희대학교 개발동아리 
+* 경희대학교 개발 동아리 
   
 ### [What i am learning now]
 * MSA using Spring Cloud
