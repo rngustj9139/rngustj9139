@@ -23,13 +23,6 @@
 -->
 * 경희대학교 개발동아리 "Web Team" 백엔드 1기 
 
-
-* SWYG 프로젝트 3기 
-
-* 다우기술 SW 장학생
-
-* 2023 에코스타트업 정부지원사업 협약체결 (정부지원금 53,606,000원 수령)
-
 ### [What i am learning now]
 * MSA using Spring Cloud
 
@@ -37,7 +30,16 @@
 
 * SRE & Cloud Native Computing
 
+### [Award]
+* 2023 에코스타트업 정부지원사업 협약체결 (정부지원금 53,606,000원 수령)
+
+* SWYG 프로젝트 3기 우수상
+
+* 다우기술 SW 장학생
+
 ### [Certificate]
+* AWS Certified Solutions Architect - Associate (Amazon Web Services)
+
 * SQLD (한국데이터산업진흥원)
   
 * OCAJP (Oracle)
