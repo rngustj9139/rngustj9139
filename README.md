@@ -21,7 +21,7 @@
 
 * 경희대학교 캠퍼스타운 겨울창업여행 프로그램 수료
 -->
-* 경희대학교 개발동아리 "Web Team" 백엔드 파트
+* 경희대학교 개발동아리 "Web Team" 백엔드 1기
 
 ### [What i am learning now]
 * MSA using Spring Cloud
