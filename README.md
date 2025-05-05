@@ -57,6 +57,7 @@
 
 ### [Test Score]
 * Topcit Level 3 (600/1000) (과학기술정보통신부)
+* Toeic Speaking Intermediate Mid (한국 토익 위원회)
 
 ### [Career]
 * 쉐어위드 (2023.04.16~2023.12.31)
