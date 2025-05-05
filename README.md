@@ -56,8 +56,9 @@
 * K-9 계열 특수 궤도 면허 (육군포병학교)
 
 ### [Test Score]
-* Topcit Level 3 (600/1000) (과학기술정보통신부)
-* Toeic Speaking Intermediate Mid (한국 토익 위원회)
+* Topcit: Level 3 (600/1000) (과학기술정보통신부)
+  
+* TOEIC Speaking Test: Intermediate Mid (한국 TOEIC 위원회)
 
 ### [Career]
 * 쉐어위드 (2023.04.16~2023.12.31)
