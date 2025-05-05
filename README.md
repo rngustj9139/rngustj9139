@@ -120,20 +120,20 @@
   <img src="https://img.shields.io/badge/SPRING CLOUD-2D8852?style=flat-square&logo=SPRING CLOUD&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
 
   <br>
- <img src="https://img.shields.io/badge/JPQL-00BFFF?style=flat-square&logo=JPQL&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
+  <img src="https://img.shields.io/badge/JPQL-00BFFF?style=flat-square&logo=JPQL&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/JPA-EE82EE?style=flat-square&logo=JPA&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/SPRING DATA JPA-DEB887?style=flat-square&logo=SPRINGDATAJPA&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/QUERYDSL-EE82EE?style=flat-square&logo=QUERYDSL&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/H2-FF1493?style=flat-square&logo=H2&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/MYSQL-66CDAA?style=flat-square&logo=MYSQL&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/REDIS-FE2E2E?style=flat-square&logo=REDIS&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
-   <img src="https://img.shields.io/badge/POSTMAN-DEB887?style=flat-square&logo=POSTMAN&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
+  <img src="https://img.shields.io/badge/POSTMAN-DEB887?style=flat-square&logo=POSTMAN&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/ERDCLOUD-778899?style=flat-square&logo=ERDCLOUD&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   
   <br>
   
-   <img src="https://img.shields.io/badge/GRAFANA-E34F26?style=flat-square&logo=GRAFANA&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
-   <img src="https://img.shields.io/badge/PROMETHEUS-FE2E2E?style=flat-square&logo=PROMETHEUS&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
+  <img src="https://img.shields.io/badge/GRAFANA-E34F26?style=flat-square&logo=GRAFANA&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
+  <img src="https://img.shields.io/badge/PROMETHEUS-FE2E2E?style=flat-square&logo=PROMETHEUS&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/LOKI-F37626?style=flat-square&logo=LOKI&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/JAEGER-4cb9d6?style=flat-square&logo=JAEGER&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/OPENTELEMETRY-ff8c00?style=flat-square&logo=OPENTELEMETRY&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
@@ -160,9 +160,9 @@
     
   <br>
   
-   <img src="https://img.shields.io/badge/FIGMA-9932cc?style=flat-square&logo=FIGMA&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
+  <img src="https://img.shields.io/badge/FIGMA-9932cc?style=flat-square&logo=FIGMA&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/SLACK-1E90FF?style=flat-square&logo=SLACK&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> 
-   <img src="https://img.shields.io/badge/NOTION-050505?style=flat-square&logo=NOTION&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
+  <img src="https://img.shields.io/badge/NOTION-050505?style=flat-square&logo=NOTION&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/GOOGLE DOCS-FFA07A?style=flat-square&logo=GOOGLE DOCS&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/DISCORD-EE82EE?style=flat-square&logo=DISCORD&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/GIT-E34F26?style=flat-square&logo=GIT&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
@@ -172,7 +172,7 @@
   <br />
   <img src="https://img.shields.io/badge/INTELLIJ-6d27e6?style=flat-square&logo=IntelliJ IDEA&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/VSCODE-0080FF?style=flat-square&logo=Visual Studio Code&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
-<img src="https://img.shields.io/badge/JUPYTER-F37626?style=flat-square&logo=Jupyter&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
+  <img src="https://img.shields.io/badge/JUPYTER-F37626?style=flat-square&logo=Jupyter&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
    <!--
   <br />
 <img src="https://img.shields.io/badge/NUMPY-1E90FF?style=flat-square&logo=NUMPY&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
