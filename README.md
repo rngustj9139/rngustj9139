@@ -120,9 +120,10 @@
     style="height:auto; margin-left:200px; margin-right:10px;"
   />
   
-  <img src="https://img.shields.io/badge/Spring batch-4B0082?style=flat-square&logo=SPRING BATCH&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
+  <img src="https://img.shields.io/badge/Spring%20Batch-4B0082?style=flat-square&logo=spring&logoColor=white" alt="Spring Batch"/>
   
-  <img src="https://img.shields.io/badge/Spring Cloud-2D8852?style=flat-square&logo=SPRING CLOUD&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
+  
+  <img src="https://img.shields.io/badge/Spring%20Cloud-2D8852?style=flat-square&logo=spring&logoColor=white" alt="Spring Cloud"/>
 
   <br>
   <img src="https://img.shields.io/badge/JPQL-00BFFF?style=flat-square&logo=JPQL&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
@@ -152,7 +153,7 @@
   
   <br>
   
-  <img src="https://img.shields.io/badge/AWS-E34F26?style=flat-square&logo=Amazon AWS&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
+  <img src="https://img.shields.io/badge/AWS-E34F26?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Netlify-FF1493?style=flat-square&logo=NETLIFY&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/Nginx-01DF3A?style=flat-square&logo=NGINX&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/Docker-9370DB?style=flat-square&logo=DOCKER&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
