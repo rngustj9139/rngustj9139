@@ -169,15 +169,27 @@
   <img src="https://img.shields.io/badge/Figma-9932cc?style=flat-square&logo=FIGMA&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/Slack-1E90FF?style=flat-square&logo=SLACK&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/> 
   <img src="https://img.shields.io/badge/Notion-050505?style=flat-square&logo=NOTION&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
-  <img src="https://img.shields.io/badge/Google Docs-FFA07A?style=flat-square&logo=GOOGLE DOCS&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
+  <img
+  src="https://img.shields.io/badge/Google%20Docs-FFA07A?style=flat-square&logo=google-docs&logoColor=white"
+  alt="Google Docs"
+  style="height:auto; margin-left:200px; margin-right:10px;"
+  />
   <img src="https://img.shields.io/badge/Discord-EE82EE?style=flat-square&logo=DISCORD&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/Git-E34F26?style=flat-square&logo=GIT&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/GitHub-66CDAA?style=flat-square&logo=GITHUB&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/GiTLab-66CDAA?style=flat-square&logo=GITLAB&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   
   <br />
-  <img src="https://img.shields.io/badge/IntelliJ-6d27e6?style=flat-square&logo=IntelliJ IDEA&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
-  <img src="https://img.shields.io/badge/VScode-0080FF?style=flat-square&logo=Visual Studio Code&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
+  <img
+  src="https://img.shields.io/badge/IntelliJ%20IDEA-6d27e6?style=flat-square&logo=intellijidea&logoColor=white"
+  alt="IntelliJ IDEA"
+  style="height:auto; margin-left:200px; margin-right:10px;"
+  />
+ <img
+  src="https://img.shields.io/badge/Visual%20Studio%20Code-0080FF?style=flat-square&logo=visual-studio-code&logoColor=white"
+  alt="VS Code"
+  style="height:auto; margin-left:200px; margin-right:10px;"
+  />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
    <!--
   <br />
