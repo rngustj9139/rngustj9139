@@ -114,7 +114,11 @@
   <img src="https://img.shields.io/badge/SPRINGBOOT-808080?style=flat-square&logo=SPRINGBOOT&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/SPRING MVC-FFC0CB?style=flat-square&logo=SPRING&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/SPRING REST API-9370DB?style=flat-square&logo=SPRING&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
-  <img src="https://img.shields.io/badge/SPRING SECURITY-98FB98?style=flat-square&logo=SPRING SECURITY&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
+   <img
+    src="https://img.shields.io/badge/Spring%20Security-98FB98?style=flat-square&logo=spring-security&logoColor=white"
+    alt="Spring Security Badge"
+    style="height:auto; margin-left:200px; margin-right:10px;"
+  />
   
   <img src="https://img.shields.io/badge/SPRING BATCH-4B0082?style=flat-square&logo=SPRING BATCH&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   
