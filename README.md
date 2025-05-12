@@ -149,7 +149,7 @@
   
   <br>
 
-  <img src="https://img.shields.io/badge/THYMELEAF-4B0082?style=flat-square&logo=THYMELEAF&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
+  <img src="https://img.shields.io/badge/Thymeleaf-4B0082?style=flat-square&logo=THYMELEAF&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <!-- 주석처리!!!!!!!!!!!!!!!!!!
   <img src="https://img.shields.io/badge/BOOTSTRAP-7FFF00?style=flat-square&logo=BOOTSTRAP&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   -->
