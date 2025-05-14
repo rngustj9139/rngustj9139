@@ -141,11 +141,11 @@
   
   <br>
   
-  <img src="https://img.shields.io/badge/Grafana-E34F26?style=flat-square&logo=GRAFANA&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
-  <img src="https://img.shields.io/badge/Prometheus-FE2E2E?style=flat-square&logo=PROMETHEUS&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
-  <img src="https://img.shields.io/badge/Loki-F37626?style=flat-square&logo=LOKI&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
-  <img src="https://img.shields.io/badge/Jaeger-4cb9d6?style=flat-square&logo=JAEGER&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
-  <img src="https://img.shields.io/badge/OpenTelemetry-ff8c00?style=flat-square&logo=OPENTELEMETRY&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
+  <img src="https://img.shields.io/badge/Grafana-E34F26?style=flat-square&logo=Grafana&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
+  <img src="https://img.shields.io/badge/Prometheus-FE2E2E?style=flat-square&logo=Prometheus&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
+  <img src="https://img.shields.io/badge/Loki-F37626?style=flat-square&logo=Loki&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
+  <img src="https://img.shields.io/badge/Jaeger-4cb9d6?style=flat-square&logo=Jaeger&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
+  <img src="https://img.shields.io/badge/OpenTelemetry-ff8c00?style=flat-square&logo=OpenTelemetry&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   
   <br>
 
