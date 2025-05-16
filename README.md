@@ -4,7 +4,7 @@
 넓은 우주에 내 흔적을 남기자!
 
 ### [Portfolio]
-[구현서_프로젝트_포트폴리오.pdf](https://github.com/user-attachments/files/20236145/_._.pdf)
+[구현서_프로젝트_포트폴리오.pdf](https://github.com/user-attachments/files/20236319/_._.pdf)
 
 ### [Personal History]
 * 경희대학교 소프트웨어융합학과 데이터 사이언스 트랙
