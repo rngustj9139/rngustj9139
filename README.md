@@ -180,7 +180,7 @@
   <img src="https://img.shields.io/badge/Discord-EE82EE?style=flat-square&logo=DISCORD&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/Git-E34F26?style=flat-square&logo=GIT&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/GitHub-66CDAA?style=flat-square&logo=GITHUB&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
-  <img src="https://img.shields.io/badge/GiTLab-66CDAA?style=flat-square&logo=GITLAB&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
+  <img src="https://img.shields.io/badge/GitLab-66CDAA?style=flat-square&logo=GITLAB&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   
   <br />
   <img
