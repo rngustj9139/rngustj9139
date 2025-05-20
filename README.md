@@ -40,7 +40,7 @@
 
 * Observability (o11y) System using Grafana, Prometheus, Loki, Jaeger, OpenTelemetry
 
-* SRE & Cloud Native Computing
+* Cloud Native Computing
 
 ### [Award]
 * 2023 에코스타트업 정부지원사업 협약체결 (정부지원금 53,606,000원 수령)
