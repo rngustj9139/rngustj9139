@@ -162,7 +162,7 @@
   <img src="https://img.shields.io/badge/Docker-9370DB?style=flat-square&logo=DOCKER&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/kubernetes-98FB98?style=flat-square&logo=KUBERNETES&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/Jenkins-221b68?style=flat-square&logo=JENKINS&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
-  <img src="https://img.shields.io/badge/Ngrinder-98FB98?style=flat-square&logo=NGRINDER&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
+  <img src="https://img.shields.io/badge/nGrinder-98FB98?style=flat-square&logo=NGRINDER&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/Kafka-050505?style=flat-square&logo=APACHEKAFKA&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
  
