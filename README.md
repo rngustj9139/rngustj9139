@@ -66,7 +66,7 @@
   
 * HD현대 (2024.09.02~2024.12.20)
   
-* LG AI Research (2024.06.30~)
+* LG AI Research (2025.06.30~)
 
 ### [Contact Point]
 (Linkedin) [www.linkedin.com/in/hskoo1219]
