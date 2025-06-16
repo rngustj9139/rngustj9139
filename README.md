@@ -65,6 +65,8 @@
 * 쉐어위드 (2023.04.16~2023.12.31)
   
 * HD현대 (2024.09.02~2024.12.20)
+  
+* LG AI Research (2024.06.30~)
 
 ### [Contact Point]
 (Linkedin) [www.linkedin.com/in/hskoo1219]
