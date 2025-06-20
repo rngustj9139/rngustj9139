@@ -35,7 +35,7 @@
 ### [What i am learning now]
 * MSA using Spring Cloud
 
-* Observability (o11y) System using Grafana, Prometheus, Loki, Jaeger, OpenTelemetry
+* Hadoop, Spark
 
 * Cloud Native Computing
 
